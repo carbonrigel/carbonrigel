@@ -7,3 +7,5 @@ My name is Eduardo and I am from Brazil. Nice to meet you! 😸
 **Web:** HTML, CSS. 
 
 **Other technologies:** Linux, AWS, Bash Script. 
+
+**Languages:** Portuguese (🇧🇷) and English (🇺🇸). 
